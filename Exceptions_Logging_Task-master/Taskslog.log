@@ -1,0 +1,15 @@
+2020-07-26 22:54:12 INFO  ClientApp:17 - Enter Principal:
+2020-07-26 22:54:18 INFO  ClientApp:19 - Enter Rate:
+2020-07-26 22:54:21 INFO  ClientApp:21 - Enter Time(in years):
+2020-07-26 22:54:23 INFO  ClientApp:23 - Simple Interest for 4.0 years is:80.0
+2020-07-26 22:54:23 INFO  ClientApp:24 - Compound Interest for 4.0 years is:82.43216000000007
+2020-07-26 22:54:23 INFO  ClientApp:25 - Enter material standard as standard/abovestandard/highstandard
+2020-07-26 22:54:28 INFO  ClientApp:27 - Enter area :
+2020-07-26 22:56:41 INFO  ClientApp:17 - Enter Principal:
+2020-07-26 22:56:46 INFO  ClientApp:19 - Enter Rate:
+2020-07-26 22:56:48 INFO  ClientApp:21 - Enter Time(in years):
+2020-07-26 22:56:49 INFO  ClientApp:23 - Simple Interest for 4.0 years is:800.0
+2020-07-26 22:56:49 INFO  ClientApp:24 - Compound Interest for 4.0 years is:824.3215999999993
+2020-07-26 22:56:49 INFO  ClientApp:25 - Enter material standard as standard/abovestandard/highstandard
+2020-07-26 22:56:56 INFO  ClientApp:27 - Enter area :
+2020-07-26 22:57:03 INFO  ClientApp:37 - Total cost required: 3000000.0
